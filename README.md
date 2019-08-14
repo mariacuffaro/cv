@@ -52,9 +52,9 @@ During this time I was involved in two major transformation programs and had var
 During this time I was on a structured graduate program which involved rapid progression from Trainee, to Programmer, Senior Programmer and eventually Principal Programmer.  I worked on various Projects using mainframe technologies (CICs, Cobol, DB2), as well as some Java, HTML and CSS.  One example from this period is an in-house web based Ticketing System that I designed and built (with a DB2 database, CICs Cobal back-end and Java, CSS, html front-end)
 
 # Hobbies and Interests
-  *	Walking: I live near to Epping Forest and enjoy a lovely walk in the trees each morning with my dog.
+  *	Walking: I live near to Epping Forest and enjoy a lovely walk in the trees each morning with my lovely dog.
   *	Reading: I am a member of a book club, I love fiction, non-fiction, classics, modern, all books really.
   *	Going to the Theatre: I try to go at least a couple of times a year to see a mix of serious plays and less serious but just as enjoyable musicals.
   *	WellBeing: I am a Wellbeing Champion at work and am interested in the benefits of meditation (which I practice regularly) as well as the science behind healthy eating and good sleep patterns 
-  *	
+  *	Active holidays: I find it quite hard to sit still so I love to go skiing or, if I am on a summer holiday, do lots of walking, cycling and sightseeing
   
