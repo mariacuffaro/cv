@@ -25,7 +25,7 @@ I am now looking forward to completing the 16 week bootcamp at the Makers Academ
   *	Pair programming
   
 ## City University
-  *	MMath Mathematics with Statistics
+  *	MMath (Hons) Mathematics Science with Statistics
   *	Completed Programming Modules during First Year
   *	1:1
   
